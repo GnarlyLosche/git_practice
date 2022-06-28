@@ -1,0 +1,3 @@
+Wow! Look at this! first personal git repository!
+
+This is exciting stuff!
